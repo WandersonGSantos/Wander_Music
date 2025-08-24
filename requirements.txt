@@ -34,7 +34,7 @@ pyinstaller==6.15.0
 pyinstaller-hooks-contrib==2024.11
 python-dateutil==2.9.0.post0
 pywin32-ctypes==0.2.3
-pyzmq==25.1.2
+pyzmq==27.0.2
 six==1.17.0
 SQLAlchemy==2.0.43
 tornado==6.5.2
