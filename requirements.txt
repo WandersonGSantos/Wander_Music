@@ -13,7 +13,7 @@ Flask-Mail==0.10.0
 Flask-SQLAlchemy==3.1.1
 future==1.0.0
 greenlet==3.2.4
-gunicorn==22.0.0
+gunicorn==23.0.0
 ipykernel==6.30.1
 ipython==9.5.0
 ipython-genutils==0.2.0
