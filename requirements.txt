@@ -20,7 +20,7 @@ ipython-genutils==0.2.0
 itsdangerous==2.2.0
 jedi==0.19.2
 Jinja2==3.1.6
-jupyter-client==8.6.3
+jupyter-client==8.7.0
 jupyter-core==5.9.1
 MarkupSafe==3.0.3
 matplotlib-inline==0.2.1
