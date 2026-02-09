@@ -24,7 +24,7 @@ jupyter-client==8.8.0
 jupyter-core==5.9.1
 MarkupSafe==3.0.3
 matplotlib-inline==0.2.1
-parso==0.8.5
+parso==0.8.6
 pefile==2024.8.26
 pickleshare==0.7.5
 prompt-toolkit==3.0.52
