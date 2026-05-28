@@ -39,6 +39,6 @@ six==1.17.0
 SQLAlchemy==2.0.50
 tornado==6.5.6
 traitlets==5.15.0
-virtualenv==21.3.3
+virtualenv==21.4.1
 wcwidth==0.7.0
 Werkzeug==3.1.8
