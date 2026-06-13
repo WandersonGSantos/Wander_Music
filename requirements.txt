@@ -5,7 +5,7 @@ blinker==1.9.0
 click==8.4.1
 colorama==0.4.6
 decorator==5.3.1
-distlib==0.4.2
+distlib==0.4.3
 emoji==2.15.0
 filelock==3.29.1
 Flask==3.1.3
