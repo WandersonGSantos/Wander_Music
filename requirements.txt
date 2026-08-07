@@ -37,7 +37,7 @@ pywin32-ctypes==0.2.3
 pyzmq==27.1.0
 six==1.17.0
 SQLAlchemy==2.0.51
-tornado==6.5.7
+tornado==6.5.8
 traitlets==5.16.1
 virtualenv==21.7.1
 wcwidth==0.8.2
